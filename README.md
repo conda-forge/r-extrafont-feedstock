@@ -1,11 +1,11 @@
-About r-extrafont
-=================
+About r-extrafont-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-extrafont-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/wch/extrafont
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-extrafont-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools to using fonts other than the standard PostScript fonts. This package makes it easy to use system TrueType fonts and with PDF or PostScript output files, and with bitmap output files in Windows. extrafont can also be used with fonts packaged specifically to be used with, such as the fontcm package, which has Computer Modern PostScript fonts with math symbols. See https://github.com/wch/extrafont for instructions and examples.
 
